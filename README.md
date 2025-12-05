@@ -1,0 +1,1 @@
+This application was developed by me. It helps plants stay healthy by allowing users to take a photo and instantly check whether the plant is healthy or affected by a disease using an AI-based system. In the future, the app will also recommend the appropriate treatment to keep plants in good condition.
